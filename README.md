@@ -1,5 +1,7 @@
 # Calculator-Application
 Application with C#
+To use this, you should have visual studio!
+A graphic friendly calculator app I built in like 20 minutes!
 
 # DEMO
 
